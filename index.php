@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>Foodie</title>
-    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
 
         <!-- Latest compiled and minified AngularJavaScript and Route-->
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.7/angular.min.js"></script>
@@ -27,9 +27,8 @@
 
         <!--Local CSS Files -->
         <link rel="stylesheet" href="style.css">
-        <link rel="stylesheet" href="css/style.css">
         <!--Local JS Files -->
-        <script type="text/javascript" src="js/app.js"></script>
+        <script type="text/javascript" src="app.js"></script>
         <!--Custom font inclusion-->
         <link href="https://fonts.googleapis.com/css?family=Convergence" rel="stylesheet">
         <!-- Meta tags-->
