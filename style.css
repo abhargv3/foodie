@@ -39,7 +39,8 @@ h4.black-answer{
 }
 
 html{
-  background-color: #000000;
+  /*background-image: url("kitchen_image.jpg");*/
+  background-color: #ffffff;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -47,9 +48,10 @@ html{
 }
 
 body{
+  background-image: url("kitchen_image.jpg");
   height: auto;
 
-  
+
 }
 
 
